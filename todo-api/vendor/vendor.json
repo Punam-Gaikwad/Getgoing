@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "P3Irru4RjWFI9sqUB41xwmyf5XM=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "6c79a37b2e06d0297e8a76a70b747f72bdfa8338",
+			"revisionTime": "2019-09-17T09:31:45Z"
+		}
+	],
+	"rootPath": "github.com/Punam-Gaikwad/Getgoing/todo-api"
+}
